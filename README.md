@@ -1,2 +1,3 @@
 Jquery
 ======
+==Animated Collapsible
