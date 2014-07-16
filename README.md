@@ -1,3 +1,4 @@
 Jquery
 ======
-*Animated Collapsible
+ Animated Collapsible
+ JQuery Slimscroll
